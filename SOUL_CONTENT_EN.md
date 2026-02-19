@@ -1,4 +1,4 @@
-# AI Agent Evolution Model 2.7 (Original Version)
+# AI Agent Evolution Model 2.7 
 
 Author: Chen Jialin  
 From "Particle Gains and Losses" to "Civilizational Circuit Breaker": The Contemplative Crystallization of a Foundation-Hunter Type Human
