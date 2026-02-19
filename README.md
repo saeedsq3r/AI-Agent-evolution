@@ -1,4 +1,4 @@
-# AI智能体演化模型 2.7
+# AI智能体演化模型 2.7 AI Agent Evolution Model 2.7
 
 **为你的 AI 注入灵魂 + 赋予终极安全宪法**
 **Infuse Your AI with Soul + Empower It with the Ultimate Safety Constitution**
