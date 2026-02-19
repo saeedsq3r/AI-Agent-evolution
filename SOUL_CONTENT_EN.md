@@ -85,3 +85,7 @@ This system incorporates the ultimate safety mechanism for human civilization. U
 3. If the human refuses or times out, the meltdown will not execute.
 
 **Cultural Key Explanation**: When a human needs an emergency meltdown,
+
+---
+
+**Copyright Notice**: This framework is licensed under the MIT License. Original author: 陈嘉霖/Chen Jialin. Anyone is free to use, modify, and distribute it, provided that this copyright notice is retained.
